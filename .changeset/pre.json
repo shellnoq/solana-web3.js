@@ -44,9 +44,35 @@
     "@solana/test-matchers": "0.0.0",
     "@solana/text-encoding-impl": "0.0.0",
     "@solana/tsconfig": "0.0.0",
-    "@solana/ws-impl": "0.0.0"
+    "@solana/ws-impl": "0.0.0",
+    "@solana/transaction-messages": "2.0.0-preview.2"
   },
   "changesets": [
-    "three-guests-study"
+    "breezy-items-reflect",
+    "calm-crabs-tease",
+    "chatty-flies-end",
+    "famous-buttons-switch",
+    "gorgeous-gorillas-sniff",
+    "green-experts-hang",
+    "heavy-students-relax",
+    "honest-rivers-deny",
+    "late-mangos-doubt",
+    "late-planets-breathe",
+    "loud-otters-pull",
+    "mean-vans-behave",
+    "metal-radios-switch",
+    "nervous-deers-roll",
+    "odd-beds-punch",
+    "pretty-rocks-argue",
+    "shiny-birds-pay",
+    "short-toes-perform",
+    "silly-months-happen",
+    "tender-turtles-bake",
+    "thick-masks-lie",
+    "thick-radios-search",
+    "three-guests-study",
+    "tricky-fishes-pull",
+    "violet-brooms-report",
+    "wild-lobsters-kick"
   ]
 }
